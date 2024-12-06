@@ -208,3 +208,7 @@ C:\Users\angel\Downloads\MetodologíaProyectoFinal\Final1Proyecto\obj\Debug\Fina
 C:\Users\angel\Downloads\MetodologíaProyectoFinal\Final1Proyecto\bin\Debug\Final1Proyecto.pdb
 C:\Users\angel\Downloads\MetodologíaProyectoFinal\Final1Proyecto\obj\Debug\Final1Proyecto.Formularios.FrmReporteProductos.resources
 C:\Users\angel\Downloads\MetodologíaProyectoFinal\Final1Proyecto\obj\Debug\Final1Proyecto.Formularios.AyudaForm.resources
+C:\Users\angel\Downloads\MetodologíaProyectoFinal\Final1Proyecto\bin\Debug\Final1Proyecto.exe.manifest
+C:\Users\angel\Downloads\MetodologíaProyectoFinal\Final1Proyecto\bin\Debug\Final1Proyecto.application
+C:\Users\angel\Downloads\MetodologíaProyectoFinal\Final1Proyecto\obj\Debug\Final1Proyecto.exe.manifest
+C:\Users\angel\Downloads\MetodologíaProyectoFinal\Final1Proyecto\obj\Debug\Final1Proyecto.application

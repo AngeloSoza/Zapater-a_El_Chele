@@ -1,7 +1,14 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\angel\\Downloads\\Metodolog\u00EDaProyectoFinal\\Final1Proyecto\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Final1Proyecto||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315E15CC-B2F2-431F-A8B4-F736E402A960}|Final1Proyecto.csproj|c:\\users\\angel\\downloads\\metodolog\u00EDaproyectofinal\\final1proyecto\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +25,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Final1Proyecto",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\Metodolog\u00EDaProyectoFinal\\Final1Proyecto\\Final1Proyecto.csproj",
+              "RelativeDocumentMoniker": "Final1Proyecto.csproj",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\Metodolog\u00EDaProyectoFinal\\Final1Proyecto\\Final1Proyecto.csproj",
+              "RelativeToolTip": "Final1Proyecto.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T12:54:46.377Z",
+              "EditorCaption": ""
             }
           ]
         }
